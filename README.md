@@ -1,2 +1,3 @@
 # Recursion
-This are some algorithms  for the odin project.
+
+This are some algorithms for the odin project.
